@@ -18,7 +18,7 @@ Para a realização da chave ssh foram realizado nos seguintes procedimentos:
 * Clique no icone do perfil Git hub localizado na parte superior a direita da tela
 * Clique em "your repositories" => "New" 
 * Insira o nome, descrição e tipo de reposiótio (publico ou privado)
-   * __Recomenda-se marcar a inicialização do repositorio com o README__
+   * _Recomenda-se marcar a inicialização do repositorio com o README_
 * Por fim clique em "Create repository"
 
 ## Clonando repositorio 
@@ -27,7 +27,7 @@ Para a realização da chave ssh foram realizado nos seguintes procedimentos:
 * Selecione o seu repositório desejado
 * Clique no botão "Code"
 * Selecione um dos links que será ultilizado para a clonagem (https ou ssh)
-   * __Como nova chave SSH foi setada recomenda-se que utlize o link SSH para fazer a clonagem__
+   * _Como nova chave SSH foi setada recomenda-se que utlize o link SSH para fazer a clonagem_
 * No Git bash insiras os seguintes comandos:
    * cd <diretorio-desejado>
    * git clone <link-github>
@@ -38,4 +38,5 @@ Após as alterações e criações dos arquivos do repositorio, abra o Git bash 
 * git commit -m "<descrição-da-commit>"
 * git push origin main(master)
 
-__Ao abrir o seu repositorio Github você pode observar que as alterações foram feitas com sucesso
+_Ao abrir o seu repositorio Github você pode observar que as alterações foram feitas com sucesso_
+  
